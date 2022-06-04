@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ImSe6as
-- 👀 I’m interested in programing
+- 👀 I’m interested computer engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
