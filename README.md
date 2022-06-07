@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ImSe6as
+- 👋 Hi, I’m Sebas
 - 👀 I’m interested computer engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
