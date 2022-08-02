@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebas
-- 👀 I’m interested computer engineering
-- 🌱 I’m currently learning python
+- 👀 I’m interested in computer engineering
+- 🌱 I’m currently studiying a career
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
